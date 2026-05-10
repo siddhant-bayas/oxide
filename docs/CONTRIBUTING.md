@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/yourname/oxide
+git clone https://github.com/siddhant-bayas/oxide
 cd oxide
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
