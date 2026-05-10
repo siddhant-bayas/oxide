@@ -34,7 +34,7 @@ a commit is just:
 * metadata
 * a pointer to the previous commit
 
-that's basically the entire model. humanity invented a globally dominant version control system out of linked snapshots and filesystem paranoia. beautiful, honestly.
+that's basically the entire model.
 
 ```txt
 files → blobs → tree → commit → commit → commit
